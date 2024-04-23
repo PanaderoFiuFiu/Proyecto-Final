@@ -28,4 +28,4 @@ async def dato(ctx):
 async def consejo(ctx, count_heh = 5):
     await ctx.send("" * count_heh)
 
-bot.run("MTIzMjM2NDk2NTIyNzEzNTA2Ng.GxUU9P.o6APp3781IqbL6eCsVjgAywaFeOIs_4NZso0b0")
+bot.run("Tu Token")
